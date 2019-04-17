@@ -1,0 +1,8 @@
+aici sunt instructiunile pt push
+
+
+
+ma duc in folderul de unde vreau sa fac push ( cd )
+dau git add . ( sau git ad folder daca vreau ceva specific)
+git commit -m "mesaj"
+git push origin master
